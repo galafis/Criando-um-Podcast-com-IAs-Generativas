@@ -39,3 +39,23 @@ Os prompts estão documentados no arquivo [`prompts-utilizados.md`](./prompts-ut
 > "A voz pode ser digital, mas o impacto é real. A IA não é apenas uma ferramenta, é uma nova forma de expressar ideias."
 
 Produzido por um entusiasta de dados, tecnologia e comunicação inteligente. #PodcastComIA
+
+
+## 📋 Descrição
+
+Descreva aqui o conteúdo desta seção.
+
+
+## 📦 Instalação
+
+Descreva aqui o conteúdo desta seção.
+
+
+## 💻 Uso
+
+Descreva aqui o conteúdo desta seção.
+
+
+## 📄 Licença
+
+Descreva aqui o conteúdo desta seção.
