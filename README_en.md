@@ -25,7 +25,10 @@ The project involved the creation of an **engaging script**, the generation of a
 🎙️ [`Click here to listen`](./assets/gabriel-demetrios-lafis.mp3)
 
 ## 🎨 Podcast Cover
-The cover was developed based on a detailed concept that reflects the essence of the episode: modern, reflective, and futuristic. *(Add image when ready)*
+The cover was developed based on a detailed concept that reflects the essence of the episode: modern, reflective, and futuristic.
+
+![Podcast Cover](./assets/podcast_hero_image.png)
+
 
 ## 💬 Prompts Used
 The prompts are documented in the [`prompts-utilizados.md`](./docs/prompts-utilizados.md) file, including:

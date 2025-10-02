@@ -27,7 +27,9 @@ O projeto envolveu a criação de um **roteiro envolvente**, a geração de uma 
 🎙️ [`Clique aqui para ouvir`](./assets/gabriel-demetrios-lafis.mp3)
 
 ## 🎨 Capa do Podcast
-A capa foi desenvolvida com base em um conceito detalhado que reflete a essência do episódio: moderno, reflexivo e futurista. *(Adicionar a imagem quando estiver pronta)*
+A capa foi desenvolvida com base em um conceito detalhado que reflete a essência do episódio: moderno, reflexivo e futurista.
+
+![Capa do Podcast](./assets/podcast_hero_image.png)
 
 ## 💬 Prompts Utilizados
 Os prompts estão documentados no arquivo [`prompts-utilizados.md`](./docs/prompts-utilizados.md), incluindo:
