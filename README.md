@@ -59,20 +59,26 @@ Produzido por Gabriel Demetrios Lafis, entusiasta de dados, tecnologia e comunic
 
 ## 📋 Descrição
 
-Descreva aqui o conteúdo desta seção.
-
+Este projeto demonstra a criação de um podcast completo, desde o roteiro até a capa e narração, utilizando princípios de geração de conteúdo. O objetivo é apresentar um fluxo de trabalho inovador para produção de mídia, focado na eficiência e qualidade.
 
 ## 📦 Instalação
 
-Descreva aqui o conteúdo desta seção.
+Este projeto é primariamente demonstrativo e não requer instalação complexa. Para explorar os arquivos:
 
+1.  **Clone o repositório:**
+    ```bash
+    git clone https://github.com/galafis/Criando-um-Podcast-com-IAs-Generativas.git
+    ```
+2.  **Navegue até o diretório do projeto:**
+    ```bash
+    cd Criando-um-Podcast-com-IAs-Generativas
+    ```
 
 ## 💻 Uso
 
-Descreva aqui o conteúdo desta seção.
-
+Para ouvir o podcast, abra o arquivo `index.html` em seu navegador ou acesse o GitHub Pages do projeto. O áudio está localizado em `assets/gabriel-demetrios-lafis.mp3` e os prompts utilizados para a criação do conteúdo estão em `docs/prompts-utilizados.md`.
 
 ## 📄 Licença
 
-Descreva aqui o conteúdo desta seção.
+Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
