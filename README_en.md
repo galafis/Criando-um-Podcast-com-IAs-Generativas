@@ -27,7 +27,7 @@ The project involved the creation of an **engaging script**, the generation of a
 ## 🎨 Podcast Cover
 The cover was developed based on a detailed concept that reflects the essence of the episode: modern, reflective, and futuristic.
 
-![Podcast Cover](./assets/podcast_hero_image.png)
+<!-- The hero image will be updated soon to better reflect the project. -->
 
 
 ## 💬 Prompts Used

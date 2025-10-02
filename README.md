@@ -29,7 +29,7 @@ O projeto envolveu a criação de um **roteiro envolvente**, a geração de uma 
 ## 🎨 Capa do Podcast
 A capa foi desenvolvida com base em um conceito detalhado que reflete a essência do episódio: moderno, reflexivo e futurista.
 
-![Capa do Podcast](./assets/podcast_hero_image.png)
+<!-- A imagem hero será atualizada em breve para refletir melhor o projeto. -->
 
 ## 💬 Prompts Utilizados
 Os prompts estão documentados no arquivo [`prompts-utilizados.md`](./docs/prompts-utilizados.md), incluindo:
