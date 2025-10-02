@@ -24,13 +24,13 @@ O projeto envolveu a criação de um **roteiro envolvente**, a geração de uma 
 5. Reflexão final: como você pode se preparar para viver (e crescer) com a inovação
 
 ## 🔈 Link para o áudio do Podcast
-🎙️ [`Clique aqui para ouvir`](./gabriel-demetrios-lafis.mp3)
+🎙️ [`Clique aqui para ouvir`](./assets/gabriel-demetrios-lafis.mp3)
 
 ## 🎨 Capa do Podcast
 A capa foi desenvolvida com base em um conceito detalhado que reflete a essência do episódio: moderno, reflexivo e futurista. *(Adicionar a imagem quando estiver pronta)*
 
 ## 💬 Prompts Utilizados
-Os prompts estão documentados no arquivo [`prompts-utilizados.md`](./prompts-utilizados.md), incluindo:
+Os prompts estão documentados no arquivo [`prompts-utilizados.md`](./docs/prompts-utilizados.md), incluindo:
 - Criação do título
 - Desenvolvimento do roteiro
 - Geração da capa
