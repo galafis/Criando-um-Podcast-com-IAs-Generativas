@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Podcast: A Nova Linguagem do Século XXI</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f7f6;
+            color: #333;
+            line-height: 1.6;
+        }
+        .container {
+            max-width: 900px;
+            margin: 40px auto;
+            background-color: #fff;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+            text-align: center;
+        }
+        header {
+            background-color: #2c3e50;
+            color: #fff;
+            padding: 20px 0;
+            border-radius: 10px 10px 0 0;
+            margin-bottom: 30px;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 2.5em;
+        }
+        .podcast-cover {
+            width: 100%;
+            max-width: 300px;
+            height: auto;
+            border-radius: 8px;
+            margin-bottom: 20px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.15);
+        }
+        audio {
+            width: 100%;
+            max-width: 600px;
+            margin: 20px auto;
+            display: block;
+        }
+        .description {
+            margin-top: 20px;
+            font-size: 1.1em;
+            color: #555;
+        }
+        .links a {
+            display: inline-block;
+            margin: 10px;
+            padding: 10px 20px;
+            background-color: #3498db;
+            color: #fff;
+            text-decoration: none;
+            border-radius: 5px;
+            transition: background-color 0.3s ease;
+        }
+        .links a:hover {
+            background-color: #2980b9;
+        }
+        footer {
+            margin-top: 40px;
+            font-size: 0.9em;
+            color: #777;
+        }
+        @media (max-width: 768px) {
+            .container {
+                margin: 20px;
+                padding: 20px;
+            }
+            header h1 {
+                font-size: 1.8em;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Podcast: A Nova Linguagem do Século XXI</h1>
+        </header>
+        <img src="./assets/podcast_cover_placeholder.png" alt="Capa do Podcast" class="podcast-cover">
+        <div class="description">
+            <p>Este é um episódio especial produzido por Gabriel Demetrios Lafis, explorando como a inovação está moldando o nosso futuro. Descubra exemplos práticos, impactos profissionais e curiosidades sobre a geração de conteúdo.</p>
+        </div>
+        <audio controls>
+            <source src="./assets/gabriel-demetrios-lafis.mp3" type="audio/mpeg">
+            Seu navegador não suporta o elemento de áudio.
+        </audio>
+        <div class="links">
+            <a href="./docs/prompts-utilizados.md" target="_blank">Ver Prompts Utilizados</a>
+            <a href="https://github.com/galafis/Criando-um-Podcast-com-IAs-Generativas" target="_blank">Visitar Repositório GitHub</a>
+        </div>
+        <footer>
+            <p>Produzido por Gabriel Demetrios Lafis &copy; 2025</p>
+        </footer>
+    </div>
+</body>
+</html>
+
