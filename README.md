@@ -4,6 +4,7 @@
 
 ## 🛡️ Badges
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Docker](https://img.shields.io/badge/Docker-Ready-2496ED.svg?logo=docker)](Dockerfile)
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Ativo-brightgreen.svg)](https://galafis.github.io/Criando-um-Podcast-com-IAs-Generativas/)
 [![Tecnologias](https://img.shields.io/badge/Tecnologias-Markdown%2C%20MP3-blue.svg)](https://github.com/galafis/Criando-um-Podcast-com-IAs-Generativas#tecnologias)
 [![Status do Projeto](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow.svg)](https://github.com/galafis/Criando-um-Podcast-com-IAs-Generativas#status-do-projeto)
