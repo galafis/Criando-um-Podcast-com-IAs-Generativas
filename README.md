@@ -3,11 +3,10 @@
 [English Version](./README_en.md)
 
 ## 🛡️ Badges
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Docker](https://img.shields.io/badge/Docker-Ready-2496ED.svg?logo=docker)](Dockerfile)
-[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Ativo-brightgreen.svg)](https://galafis.github.io/Criando-um-Podcast-com-IAs-Generativas/)
-[![Tecnologias](https://img.shields.io/badge/Tecnologias-Markdown%2C%20MP3-blue.svg)](https://github.com/galafis/Criando-um-Podcast-com-IAs-Generativas#tecnologias)
-[![Status do Projeto](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow.svg)](https://github.com/galafis/Criando-um-Podcast-com-IAs-Generativas#status-do-projeto)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![License-MIT](https://img.shields.io/badge/License--MIT-yellow?style=for-the-badge)
+
 
 ## 📒 Descrição
 Este projeto foi desenvolvido por Gabriel Demetrios Lafis como parte de um desafio da DIO, com o objetivo de criar um **podcast completo**. Como um cientista de dados apaixonado por tecnologia, Gabriel aproveitou a oportunidade para unir criatividade com tecnologia e demonstrar como a inovação pode transformar conteúdo em experiência.
